@@ -24,7 +24,7 @@
         <div class="hero-text-container">
           <h1>Defesa Jurídica Especializada para Profissionais de Saúde</h1>
           <p>Oferecemos assessoria jurídica estratégica e humanizada, com foco na defesa dos direitos de médicos, dentistas e enfermeiros. Nossa missão é garantir que você tenha o suporte necessário para navegar com segurança pelo complexo universo médico-legal, protegendo sua carreira e sua reputação.</p>
-          <a href="#contato" class="btn-contato">Entre em Contato</a>
+          <a href="https://wa.me/5514981411212?text=Olá, encontrei vocês através do site." class="btn-contato">Entre em Contato</a>
         </div>
         <img src="../assets/ise.png" alt="Foto da Advogada" class="advogada-photo">
       </div>
@@ -43,7 +43,7 @@
           <p>Taxa de Sucesso em Processos</p>
         </div>
         <div class="stat-card">
-          <h3>15+</h3>
+          <h3>8+</h3>
           <p>Anos de Experiência na Área</p>
         </div>
         <div class="stat-card">
@@ -167,7 +167,7 @@
       <p class="section-description">Estamos prontos para defender sua carreira. Clique no botão abaixo para falar diretamente conosco:</p>
       
       <div class="contact-button-container">
-        <a href="#" target="_blank" class="btn-contato">Fale Conosco</a> 
+        <a href="https://wa.me/5514981411212?text=Olá, encontrei vocês através do site." target="_blank" class="btn-contato">Fale Conosco</a> 
       </div>
 
       <div class="contact-info-container">
@@ -653,26 +653,26 @@ a {
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* NOVO: Propriedades para alinhamento e altura fixa */
+  justify-content: space-around; /* Distribui espaço entre o h3 e o p */
   align-items: center;
-  min-height: 120px; 
+  height: 150px; /* DEFINIDO UMA ALTURA FIXA PARA PADRONIZAR */
   transition: transform 0.3s ease, background-color 0.3s ease;
-  /* ADICIONADO: Propriedades para o pseudo-elemento */
-  position: relative; /* Essencial para posicionar o pseudo-elemento */
-  overflow: hidden; /* Garante que a barra não transborde inicialmente */
+  position: relative; 
+  overflow: hidden;
+  width: 100%;
 }
 
-/* NOVO: Estilos para o efeito de barra no hover */
 .stat-card::before {
   content: '';
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 5%; /* Altura da barra */
-  background-color: transparent; /* Transparente por padrão */
-  transition: background-color 0.6s ease; /* Transição suave da cor */
-  z-index: 1; /* Garante que a barra fique por cima do fundo do card, mas abaixo do conteúdo */
+  height: 5%; 
+  background-color: transparent; 
+  transition: background-color 0.6s ease; 
+  z-index: 1; 
 }
 
 .stat-card:hover {
@@ -680,7 +680,6 @@ a {
   background-color: #383838; 
 }
 
-/* NOVO: Mostra a barra na cor de destaque ao passar o mouse */
 .stat-card:hover::before {
   background-color: var(--cor-destaque);
 }
@@ -688,10 +687,9 @@ a {
 .stat-card h3 {
   font-size: 2.5em; 
   color: var(--cor-destaque); 
-  margin-bottom: 10px;
+  margin-bottom: 0px; /* REMOVIDO MARGIN-BOTTOM PARA MELHOR ALINHAMENTO COM SPACE-AROUND */
   margin-top: 0;
   line-height: 1;
-  /* ADICIONADO: Para que o texto fique acima da barra */
   z-index: 2; 
   position: relative; 
 }
@@ -701,7 +699,6 @@ a {
   color: var(--cor-texto-claro);
   margin-bottom: 0;
   line-height: 1.2;
-  /* ADICIONADO: Para que o texto fique acima da barra */
   z-index: 2; 
   position: relative; 
 }
@@ -712,8 +709,6 @@ a {
     padding-bottom: 20px; 
 }
 
-/* A seção Nossos Números herda .section, então seu padding-top é 80px por padrão.
-   Precisamos sobrescrever isso se quisermos diminuir a distância entre ela e o Hero. */
 #nossos-numeros {
     padding-top: 40px; 
     padding-bottom: 40px; 
@@ -781,8 +776,10 @@ a {
   }
 
   .stat-card {
-    flex-basis: 90%; 
+    flex-basis: 90%;
+    width: 100%;
     max-width: 300px; 
+    height: 300px; /* MANTIDO: Altura fixa no mobile */
   }
 }
 
