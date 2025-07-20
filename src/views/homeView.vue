@@ -217,7 +217,7 @@ export default {
   --cor-hover-sombra: rgba(0, 0, 0, 0.4); /* Sombra escura para o hover */
 }
 
-body {
+html, body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
@@ -225,6 +225,7 @@ body {
   background-color: var(--cor-fundo-escuro);
   color: var(--cor-texto-claro);
   line-height: 1.6; /* Levemente ajustado para melhor leitura */
+  scroll-behavior: smooth;
 }
 
 h1,
@@ -267,7 +268,6 @@ a {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
   position: fixed;
   width: 100%;
-  top: 0;
   z-index: 1000;
   display: flex;
   justify-content: center;
@@ -282,20 +282,6 @@ a {
   padding: 0 20px;
   width: 100%; /* Garante que a nav ocupe a largura máxima permitida */
 }
-
-.navbar .logo {
-  font-weight: bold;
-  font-size: 1.6em; /* Mantido para caso uma imagem futura ou outro conteúdo seja adicionado */
-  color: var(--cor-texto-claro);
-  z-index: 1001;
-  /* Propriedades para garantir que o link da logo ainda tenha um tamanho visível/clicável */
-  min-width: 50px; /* Ajuste se quiser uma área clicável maior/menor para a logo vazia */
-  height: 30px; /* Ajuste conforme necessário para a área clicável */
-  display: flex; /* Para centralizar uma possível imagem ou garantir o min-width/height */
-  align-items: center;
-  justify-content: center;
-}
-
 /* Menu de navegação (desktop) */
 .nav-links {
   list-style: none;
@@ -540,11 +526,6 @@ a {
   justify-content: center; /* Centraliza o conteúdo horizontalmente */
   gap: 50px;
   padding: 0 20px;
-}
-
-/* Estilo para mover a foto para a direita e o texto para a esquerda no desktop */
-.hero-content {
-  flex-direction: row-reverse; /* INVERTE A ORDEM: foto vem primeiro (na direita) */
 }
 
 .advogada-photo {
