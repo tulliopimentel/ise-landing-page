@@ -30,9 +30,31 @@
       </div>
     </section>
 
+    <section id="nossos-numeros" class="section">
+      <h2>Nossos Números</h2>
+      <p class="section-description">Resultados que comprovam nosso compromisso com a excelência na defesa da sua profissão.</p>
+      <div class="stats-cards-container">
+        <div class="stat-card">
+          <h3>250+</h3>
+          <p>Profissionais de Saúde Atendidos</p>
+        </div>
+        <div class="stat-card">
+          <h3>98%</h3>
+          <p>Taxa de Sucesso em Processos</p>
+        </div>
+        <div class="stat-card">
+          <h3>15+</h3>
+          <p>Anos de Experiência na Área</p>
+        </div>
+        <div class="stat-card">
+          <h3>Nacional</h3>
+          <p>Atendimento em Todo o Brasil</p>
+        </div>
+      </div>
+    </section>
     <section id="especializacao" class="section">
       <h2>Nossa Especialização</h2>
-      <p class="section-description">Atuamos exclusivamente em causas relacionadas aos direitos médicos e da saúde, oferecendo suporte jurídico abrangente para <span class="highlight">profissionais como você</span>, em diversas áreas, tais como:</p>
+      <p class="section-description">Atuamos exclusivamente em causas relacionadas aos direitos médicos e da saúde, oferecendo suporte jurídico abrangente para profissionais como você, em diversas áreas, tais como:</p>
       <ul class="specialization-list">
         <li>
           <div class="card-icon">
@@ -66,11 +88,7 @@
         </li>
         <li>
           <div class="card-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="12" cy="12" r="10"></circle>
-              <line x1="4.93" y1="4.93" x2="19.07" y2="19.07"></line>
-            </svg>
-          </div>
+            <svg fill="#CDA454" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M18.5,11H16.118L14.4,7.553A1,1,0,0,0,13.5,7h-6a1,1,0,0,0-.948.684l-2,6a1,1,0,1,0,1.9.632L7.5,11.162V22a1,1,0,0,0,2,0V16h2v6a1,1,0,0,0,2,0V10.236l1.105,2.211A1,1,0,0,0,15.5,13h3a1,1,0,0,0,0-2Zm-7,3h-2V9h2Zm-1-13A2.5,2.5,0,1,1,8,3.5,2.5,2.5,0,0,1,10.5,1Z"></path></g></svg>          </div>
           <h3>Questões regulatórias e sanitárias</h3>
           <p>Assessoria em conformidade com normas da ANS, ANVISA e outras regulamentações do setor de saúde.</p>
         </li>
@@ -88,13 +106,7 @@
         </li>
         <li>
           <div class="card-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11a3 3 0 0 0 3-3V9h-3z"></path>
-                  <path d="M4 15V9a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v6"></path>
-                  <line x1="8" y1="21" x2="8" y2="15"></line>
-                  <line x1="16" y1="21" x2="16" y2="15"></line>
-                </svg>
-          </div>
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve" fill="#CDA454"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill="#CDA454" d="M60,56h-8V28h8c1.738,0,3.277-1.125,3.809-2.777c0.531-1.656-0.07-3.469-1.484-4.477l-28-20 c-1.391-0.992-3.258-0.992-4.648,0l-28,20c-1.414,1.008-2.016,2.82-1.484,4.477C0.723,26.875,2.262,28,4,28h8v28H4 c-2.211,0-4,1.789-4,4v4h64v-4C64,57.789,62.211,56,60,56z M28,56h-8V28h8V56z M44,56h-8V28h8V56z"></path> </g></svg>          </div>
           <h3>Defesa de honorários e questões financeiras</h3>
           <p>Suporte jurídico para cobrança de honorários e resolução de pendências financeiras.</p>
         </li>
@@ -118,30 +130,21 @@
         </li>
         <li>
           <div class="list-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
-              <circle cx="8.5" cy="7" r="4"></circle>
-              <line x1="18" y1="8" x2="23" y2="13"></line>
-              <line x1="23" y1="8" x2="18" y2="13"></line>
-            </svg>
+          <svg viewBox="0 0 15 15" version="1.1" id="dentist" xmlns="http://www.w3.org/2000/svg" fill="#CDA454"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M4.36,14c-1,0-0.56-2.67-0.86-5c-0.1-0.76-1-1.49-1.12-2.06C2,5,1.39,1.44,3.66,1S6,3,7.54,3s1.57-2.36,3.85-2
+            s1.59,3.9,1.29,5.9c-0.1,0.45-1.1,1.48-1.18,2.06c-0.33,2.4,0.32,5-0.8,5c-0.93,0-1.32-2.72-2-4.5C8.43,8.63,8.06,8,7.54,8
+            C6,8,5.75,14,4.36,14z"></path> </g></svg>
           </div>
           <p><strong>Dentistas e Odontólogos:</strong> Oferecendo suporte em questões de responsabilidade profissional e regulatórias.</p>
         </li>
         <li>
           <div class="list-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M2 3a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V3z"></path>
-              <polyline points="3 7 12 13 21 7"></polyline>
-              <polyline points="21 21 12 15 3 21"></polyline>
-            </svg>
+<svg fill="#CDA454" height="200px" width="200px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <polygon points="266.534,81.856 266.534,40.928 246.07,40.928 246.07,81.856 205.142,81.856 205.142,102.321 246.07,102.321 246.07,143.249 266.534,143.249 266.534,102.321 307.463,102.321 307.463,81.856 "></polygon> </g> </g> <g> <g> <path d="M399.266,175.204L429.77,12.519c0.559-2.993-0.24-6.279-2.183-8.622C425.643,1.556,422.758,0,419.713,0H92.287 c-3.045,0-5.93,1.556-7.874,3.897c-1.944,2.343-2.743,5.53-2.183,8.522l30.504,162.739 c-18.128,32.463-28.515,69.946-30.351,109.289c-0.312,1.28-0.38,2.621-0.185,3.938c-0.092,2.903-0.143,5.819-0.143,8.739 C82.055,415.606,160.087,512,256,512c95.913,0,173.945-96.389,173.945-214.871C429.945,253.143,419.336,211.128,399.266,175.204z M104.615,20.464h302.77l-26.859,143.249H131.474L104.615,20.464z M256,491.539c-84.629,0-153.481-87.211-153.481-194.409 c0-1.533,0.042-3.056,0.07-4.585c18.523-11.096,89.341-49.699,145.777-28.388c4.496,9.521,17.314,34.101,38.77,55.558 c24.511,24.512,52.177,36.925,81.582,36.924c11.339,0,22.937-1.872,34.71-5.582C384.923,432.095,325.856,491.539,256,491.539z M405.681,328.56c-38.113,15.243-73.001,7.528-103.687-22.929c-23.999-23.815-36.432-53.081-36.549-53.363 c-1.024-2.458-2.968-4.421-5.416-5.47c-57.175-24.501-124.438,4.187-155.786,21.024c3.547-30.018,12.6-58.065,26.694-83.645 H381.06c18.588,33.254,28.42,72.012,28.42,112.752c0,10.517-0.684,21.034-1.961,31.102 C406.903,328.153,406.286,328.318,405.681,328.56z"></path> </g> </g> </g></svg>
           </div>
           <p><strong>Enfermeiros e Equipe de Enfermagem:</strong> Auxiliando na defesa de direitos e em processos disciplinares.</p>
         </li>
         <li>
           <div class="list-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path>
-            </svg>
+<svg fill="#CDA454" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M24.964844 1 A 1.0001 1.0001 0 0 0 24.382812 1.2128906L4.421875 16.835938L1.3828125 19.212891 A 1.0002305 1.0002305 0 1 0 2.6171875 20.787109L4 19.705078L4 46 A 1.0001 1.0001 0 0 0 5 47L45 47 A 1.0001 1.0001 0 0 0 46 46L46 19.705078L47.382812 20.787109 A 1.0002308 1.0002308 0 1 0 48.617188 19.212891L45.632812 16.878906L25.617188 1.2128906 A 1.0001 1.0001 0 0 0 24.964844 1 z M 25 3.2695312L44 18.138672L44 45L6 45L6 18.138672L25 3.2695312 z M 23 20L23 27L16 27L16 31L23 31L23 38L27 38L27 31L34 31L34 27L27 27L27 20L23 20 z"></path></g></svg>
           </div>
           <p><strong>Clínicas e Consultórios:</strong> Buscando assessoria jurídica preventiva e contenciosa para a instituição.</p>
         </li>
@@ -153,7 +156,7 @@
         <img src="../assets/ise.png" alt="Foto da Advogada" class="advogada-photo-small">
         <div class="text-content">
           <h2>Sobre Nós</h2>
-          <p>Com anos de experiência e um profundo conhecimento da legislação em saúde, nossa missão é garantir que os direitos de médicos, dentistas e enfermeiros sejam defendidos com rigor e excelência. Nosso compromisso é com a <span class="highlight">justiça e a proteção dos interesses</span> daqueles que nos confiam suas carreiras.</p>
+          <p>Com anos de experiência e um profundo conhecimento da legislação em saúde, nossa missão é garantir que os direitos de médicos, dentistas e enfermeiros sejam defendidos com rigor e excelência. Nosso compromisso é com a justiça e a proteção dos interesses daqueles que nos confiam suas carreiras.</p>
           <p>Nossa fundadora, [Nome da Advogada], é uma advogada dedicada e apaixonada por direitos médicos, reconhecida por sua atuação ética e resultados consistentes na defesa de profissionais da saúde.</p>
         </div>
       </div>
@@ -345,7 +348,7 @@ a {
 
 /* Seções */
 .section {
-  padding: 80px 20px;
+  padding: 80px 20px; /* ORIGINAL */
   max-width: 1000px;
   margin: 0 auto;
   text-align: center;
@@ -420,8 +423,8 @@ a {
 }
 
 .card-icon {
-  width: 48px; /* Tamanho fixo para o SVG */
-  height: 48px; /* Tamanho fixo para o SVG */
+  width: 52px; /* Tamanho fixo para o SVG */
+  height: 52px; /* Tamanho fixo para o SVG */
   color: var(--cor-destaque); /* A cor de preenchimento do SVG */
   margin-bottom: 10px;
   transition: transform 0.3s ease;
@@ -432,8 +435,8 @@ a {
 
 /* Garante que o SVG dentro do container use a cor definida e tenha tamanho */
 .card-icon svg {
-  width: 60%; /* Ajuste o tamanho do ícone dentro do container */
-  height: 60%; /* Ajuste o tamanho do ícone dentro do container */
+  width: 90%; /* Ajuste o tamanho do ícone dentro do container */
+  height: 90%; /* Ajuste o tamanho do ícone dentro do container */
   fill: currentColor; /* Para SVGs com fill */
   stroke: currentColor; /* Para SVGs com stroke */
   stroke-width: 2; /* Mantém a largura do traço para ícones de linha */
@@ -482,8 +485,8 @@ a {
 }
 
 .list-icon {
-  width: 32px; /* Tamanho do ícone para Quem Atendemos */
-  height: 32px; /* Tamanho do ícone para Quem Atendemos */
+  width: 36px; /* Tamanho do ícone para Quem Atendemos */
+  height: 36px; /* Tamanho do ícone para Quem Atendemos */
   color: var(--cor-destaque);
   flex-shrink: 0; /* Impede que o ícone encolha se o texto for muito longo */
   display: flex; /* Para centralizar o SVG */
@@ -508,24 +511,27 @@ a {
 
 /* Hero Section */
 .hero {
-  /* Fundo da seção hero agora cinza escuro, sem gradiente ou imagem */
   background-color: var(--cor-fundo-escuro); 
-  height: 105vh; /* Mantido para ocupar a tela toda */
+  height: auto; 
+  min-height: 80vh; 
   display: flex;
+  flex-direction: column; 
   align-items: center;
   justify-content: center;
   padding-top: 70px;
+  padding-bottom: 20px; 
   box-sizing: border-box;
 }
 
 .hero-content {
   max-width: 1000px;
   display: flex;
-  flex-direction: row; /* PADRÃO: Foto e Texto lado a lado */
+  flex-direction: row; 
   align-items: center;
-  justify-content: center; /* Centraliza o conteúdo horizontalmente */
+  justify-content: center; 
   gap: 50px;
   padding: 0 20px;
+  flex-grow: 1; 
 }
 
 .advogada-photo {
@@ -534,12 +540,11 @@ a {
   border-radius: 8px;
   object-fit: cover;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
-  /* Removido margin-right: 50px; pois flex-direction-reverse já controla o espaçamento */
 }
 
 .hero-text-container {
   flex: 1;
-  text-align: left; /* Texto alinhado à esquerda */
+  text-align: left; 
 }
 
 .hero h1 {
@@ -602,10 +607,9 @@ a {
   margin-bottom: 15px;
 }
 
-/* Formulário de Contato REMOVED, NEW STYLES BELOW */
 .contact-button-container {
   margin: 30px auto;
-  text-align: center; /* Centraliza o botão */
+  text-align: center; 
 }
 
 .contact-info-container {
@@ -628,79 +632,165 @@ a {
   margin-top: 40px;
 }
 
-/* Marca Texto */
-.highlight {
+/* Estilos para a Seção "Nossos Números" */
+.stats-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 0px 20px 40px; 
+  max-width: 1000px; 
+  margin: 0 auto; 
+}
+
+.stat-card {
+  background-color: #282828;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  flex-basis: calc(25% - 30px); 
+  box-sizing: border-box;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 120px; 
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  /* ADICIONADO: Propriedades para o pseudo-elemento */
+  position: relative; /* Essencial para posicionar o pseudo-elemento */
+  overflow: hidden; /* Garante que a barra não transborde inicialmente */
+}
+
+/* NOVO: Estilos para o efeito de barra no hover */
+.stat-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5%; /* Altura da barra */
+  background-color: transparent; /* Transparente por padrão */
+  transition: background-color 0.6s ease; /* Transição suave da cor */
+  z-index: 1; /* Garante que a barra fique por cima do fundo do card, mas abaixo do conteúdo */
+}
+
+.stat-card:hover {
+  transform: translateY(-8px);
+  background-color: #383838; 
+}
+
+/* NOVO: Mostra a barra na cor de destaque ao passar o mouse */
+.stat-card:hover::before {
   background-color: var(--cor-destaque);
-  color: var(--cor-fundo-escuro); /* Garante que o texto seja legível sobre o destaque */
-  padding: 2px 5px; /* Adiciona um pequeno padding para o "grifo" */
-  border-radius: 3px; /* Cantos levemente arredondados */
-  display: inline; /* Garante que se comporte como texto em linha */
+}
+
+.stat-card h3 {
+  font-size: 2.5em; 
+  color: var(--cor-destaque); 
+  margin-bottom: 10px;
+  margin-top: 0;
+  line-height: 1;
+  /* ADICIONADO: Para que o texto fique acima da barra */
+  z-index: 2; 
+  position: relative; 
+}
+
+.stat-card p {
+  font-size: 0.9em;
+  color: var(--cor-texto-claro);
+  margin-bottom: 0;
+  line-height: 1.2;
+  /* ADICIONADO: Para que o texto fique acima da barra */
+  z-index: 2; 
+  position: relative; 
+}
+
+/* Ajuste do padding do hero para acomodar a nova seção */
+.hero {
+    min-height: 80vh; 
+    padding-bottom: 20px; 
+}
+
+/* A seção Nossos Números herda .section, então seu padding-top é 80px por padrão.
+   Precisamos sobrescrever isso se quisermos diminuir a distância entre ela e o Hero. */
+#nossos-numeros {
+    padding-top: 40px; 
+    padding-bottom: 40px; 
 }
 
 
 /* RESPONSIVIDADE DO MENU HAMBÚRGUER */
-@media (max-width: 900px) { /* Ponto de interrupção para ativar o menu hambúrguer */
+@media (max-width: 900px) { 
   .navbar nav {
-    flex-direction: row; /* Mantém logo e hambúrguer na mesma linha */
-    justify-content: space-between; /* Espaça logo e hambúrguer */
-    padding: 0 20px; /* Garante padding em telas menores */
+    flex-direction: row; 
+    justify-content: space-between; 
+    padding: 0 20px; 
   }
 
-  /* Esconde o menu de navegação padrão em telas menores */
   .nav-links {
-    display: none; /* Esconde o menu por padrão no mobile */
+    display: none; 
     flex-direction: column;
-    position: fixed; /* Fixa o menu */
-    top: 60px; /* Abaixo da navbar */
-    right: 0; /* Posiciona o menu no lado direito (inicialmente na tela) */
-    width: 100%; /* Ocupa 100% da largura da tela */
+    position: fixed; 
+    top: 60px; 
+    right: 0; 
+    width: 100%; 
     background-color: var(--cor-fundo-escuro);
-    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.5); /* Sombra à esquerda */
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.5); 
     padding: 20px 0;
-    transition: transform 0.3s ease-in-out; /* Transição para o slide */
-    transform: translateX(100%); /* Esconde o menu para fora da tela, à direita */
-    height: calc(100vh - 60px); /* Ocupa o restante da tela */
-    overflow-y: auto; /* Permite scroll se os itens excederem a altura */
-    z-index: 999; /* Garante que o menu fique acima do conteúdo */
+    transition: transform 0.3s ease-in-out; 
+    transform: translateX(100%); 
+    height: calc(100vh - 60px); 
+    overflow-y: auto; 
+    z-index: 999; 
   }
 
-  /* Mostra o menu quando "menu-open" está ativo */
   .nav-links.menu-open {
-    display: flex; /* Mostra o menu quando aberto */
-    transform: translateX(0); /* Desliza o menu para a posição 0 (dentro da tela) */
+    display: flex; 
+    transform: translateX(0); 
   }
 
   .nav-links li {
-    margin: 15px 0; /* Espaçamento vertical para os itens */
+    margin: 15px 0; 
     text-align: center;
   }
 
   .nav-links li a {
-    display: block; /* Ocupa toda a largura do item */
-    padding: 10px 0; /* Padding para a área clicável */
+    display: block; 
+    padding: 10px 0; 
     color: var(--cor-texto-claro);
     font-size: 1.2em;
   }
 
   .nav-links li a:hover {
-    background-color: #282828; /* Fundo sutil no hover */
+    background-color: #282828; 
   }
 
   .hamburger-menu {
-    /* Mostra o hambúrguer no mobile */
     display: flex; 
   }
 
-  /* RESPONSIVIDADE HERO SECTION (FOTO E TEXTO EMPILHADOS NO MOBILE) */
   .hero-content {
-    flex-direction: column; /* Coloca foto e texto em coluna no mobile */
-    text-align: center; /* Centraliza o conteúdo */
+    flex-direction: column; 
+    text-align: center; 
+  }
+
+  .stats-cards-container {
+    flex-direction: column; 
+    align-items: center;
+  }
+
+  .stat-card {
+    flex-basis: 90%; 
+    max-width: 300px; 
   }
 }
 
 @media (max-width: 768px) {
   .hero {
     padding-top: 100px;
+    min-height: auto; 
+    padding-bottom: 20px; 
   }
 
   .hero h1 {
@@ -722,7 +812,7 @@ a {
   }
 
   .section {
-    padding: 60px 15px;
+    padding: 60px 15px; 
   }
 
   h2 {
@@ -742,24 +832,40 @@ a {
   }
 
   .card-icon {
-    font-size: 2.2em; /* Ajuste para o tamanho do SVG em telas menores */
+    font-size: 2.2em; 
   }
 
   .who-we-serve-list li {
-    flex-direction: column; /* Em telas menores, o ícone e o texto podem empilhar */
-    align-items: center; /* Centraliza o conteúdo no card (mobile) */
-    gap: 5px; /* Reduz o espaço entre o ícone e o texto quando empilhados */
-    padding: 15px; /* Ajusta o padding do card para mobile */
+    flex-direction: column; 
+    align-items: center; 
+    gap: 5px; 
+    padding: 15px; 
   }
 
   .list-icon {
-    width: 28px; /* Ajuste o tamanho do ícone em telas menores */
-    height: 28px; /* Ajuste o tamanho do ícone em telas menores */
-    margin-bottom: 5px; /* Espaço entre o ícone e o texto quando empilhados */
+    width: 28px; 
+    height: 28px; 
+    margin-bottom: 5px; 
   }
 
   .who-we-serve-list li p {
-    text-align: center; /* Centraliza o texto do parágrafo no card (mobile) */
+    text-align: center; 
+  }
+
+  .stats-cards-container {
+      padding: 30px 15px; 
+  }
+
+  .stat-card h3 {
+      font-size: 2em; 
+  }
+  .stat-card p {
+      font-size: 0.85em; 
+  }
+
+  #nossos-numeros {
+    padding-top: 30px; 
+    padding-bottom: 30px; 
   }
 }
 
@@ -781,7 +887,6 @@ a {
     font-size: 0.9em;
   }
 
-  /* Contact button container on mobile */
   .contact-button-container {
     padding: 0 15px;
   }
